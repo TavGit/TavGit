@@ -1,16 +1,7 @@
 ## Hi there 👋
 
 My name is Muhammad Gustav Ibrahim, a teenager who loves to explore the world of Programming,
-I have tried various programming languages, starting from,
-
-1. HTML5
-2. CSS
-3. JAVASCRIPT
-4. PYTHON
-5. JAVA
-6. PHP
-7. GOLANG
-8. DART,
+I have tried various programming languages, starting from, HTML5, CSS3, JavaScript, Python, PHP, Golang, Dart
 
 and currently I am focusing on the Dart programming language and its framework, namely Flutter
 
