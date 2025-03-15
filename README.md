@@ -2,6 +2,7 @@
 
 My name is Muhammad Gustav Ibrahim, a teenager who loves to explore the world of Programming,
 I have tried various programming languages, starting from,
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -18,20 +19,24 @@ I have tried various programming languages, starting from,
 
 
 Not only the programming world, I also tried the networking world such as,
+
 ![MikroTik](https://img.shields.io/badge/MikroTik-D9252A?style=for-the-badge&logo=mikrotik&logoColor=white)  
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
 
 Then for network servers, namely,
+
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)  
 ![Bind9](https://img.shields.io/badge/Bind9-FF6F00?style=for-the-badge&logo=bind9&logoColor=white)  
 
 Not only Networking, I also tried the DevOps World such as,
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 ![CI/CD](https://img.shields.io/badge/CI/CD-430098?style=for-the-badge&logo=githubactions&logoColor=white)  
 
 I am also able to operate computer system operations such as,
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
