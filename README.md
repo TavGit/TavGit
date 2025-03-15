@@ -16,12 +16,17 @@ and currently I am focusing on the Dart programming language and its framework, 
 
 I aspire to become an expert in the field of Mobile Apps Developer,
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-gustav-ibrahim-7a2a01293/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmmdgustavibrm_tech/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GustavIbrahim)
+
 ## 🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/muhammad-gustav-ibrahim-7a2a01293/)
 
-[![Instagram](https://www.instagram.com/mhmmdgustavibrm_tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-gustav-ibrahim-7a2a01293/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmmdgustavibrm_tech/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GustavIbrahim)
 
-[![Youtube](https://www.youtube.com/@GustavIbrahim)
+
 
 ## 🚀 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
