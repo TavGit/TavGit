@@ -36,6 +36,6 @@ I aspire to become an expert in the field of Mobile Apps Developer,
 
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**TavGit**&langs_count=5&layout=compact&hide=php,c,cpp,java,typescript&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavGit&layout=compact&hide=php,c,cpp,java,typescript&theme=tokyonight)
 
 
