@@ -44,15 +44,11 @@ I aspire to become an expert in the field of Mobile Apps Developer.
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
 ### 📊 GitHub Stats  
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TavGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://streak-stats.demolab.com?user=TavGit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ### 🔥 Most Used Languages  
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavGit&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
 
 
