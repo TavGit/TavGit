@@ -37,11 +37,22 @@ I aspire to become an expert in the field of Mobile Apps Developer.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 GitHub Stats
-![TavGit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TavGit&show_icons=true&theme=tokyonight)
+## 🛠️ Tools Stack
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TavGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=TavGit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavGit&layout=compact&hide=php,c,cpp,java,typescript&theme=tokyonight)
+### 🔥 Most Used Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavGit&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
 
 
