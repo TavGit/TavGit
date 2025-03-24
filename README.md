@@ -49,7 +49,7 @@ I aspire to become an expert in the field of Mobile Apps Developer.
   <img src="https://streak-stats.demolab.com?user=TavGit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### 🔥 Most Used Languages  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavGit&layout=compact&cache_seconds=3600)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavGit&layout=compact&cache_seconds=3600" />
 
 
 
