@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=550&lines=Hi+there!+👋;I'm+Gustav+Ibrahim!;A+Tech+Enthusiast+%F0%9F%94%A5;Programming+Lovers+💖;👨‍💻+Mobile+Developer+in+Progress+;Flutter+%7C+Dart+%7C+Android+%7C+UI%2FUX+🎨;Let's+Build+Something+Awesome!+🚀">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=550&lines=Hi+there!+👋;I'm+Gustav+Ibrahim!;A+Tech+Enthusiast+%F0%9F%94%A5;Programming+Lovers+💖;👨‍💻+Mobile+Developer+in+Progress+;Python+%7C+Dart+%7C+Flutter+%7C;Let's+Build+Something+Awesome!+🚀">
 </p>
 
 My name is Muhammad Gustav Ibrahim, a teenager who loves to explore the world of Programming.
