@@ -1,6 +1,16 @@
+
+<h1 align="center">Hey 👋, I'm Gustav Ibrahim!</h1>
+<p align="center">💻 A passionate tech enthusiast who loves turning ideas into reality through code.</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=550&lines=Hi+there!+👋;I'm+Gustav+Ibrahim!;A+Tech+Enthusiast+%F0%9F%94%A5;Programming+Lovers+💖;👨‍💻+Mobile+Developer+in+Progress+;Python+%7C+Dart+%7C+Flutter+%7C;Let's+Build+Something+Awesome!+🚀">
+  <a href="https://github.com/TavGit">
+    <img src="https://img.shields.io/badge/Mobile%20Dev%20in%20Progress-00C4B3?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tech%20Enthusiast-FF5722?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Programming%20Lover-FC427B?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
+
+---
 
 My name is Muhammad Gustav Ibrahim, a teenager who loves to explore the world of Programming.
 
